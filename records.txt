@@ -1,0 +1,23 @@
+|||||
+Dollarama|||||
+other|||||
+Walmart|1|1|1|1|1
+other||0.00|||
+|||||
+Dollarama|||||
+other|||||
+Walmart|1|1|1|1|1
+other||0.00|||
+|||||
+Dollarama|||||
+other|||||
+Walmart|1|1|1|1|1
+other||0.00|||
+|||||
+Dollarama|||||
+other|||||
+Walmart|1|1|1|1|1
+other||0.00|||
+other|u|1|1|0.1	|111
+other|1|1|123|1|1
+other|bananas|0.55|xfgdrgdg|0.8|
