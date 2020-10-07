@@ -3,3 +3,6 @@
 Complete the form and click "Add record" and then "Clear".
 You can see your records by clicking "View the log" on the main screen.
 Camera function could not work.
+Requirements:
+Kivy == 1.11.0
+Python == 3.7
